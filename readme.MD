@@ -57,7 +57,8 @@ cd Organizador-de-Arquivos
 ```
 python main.py
 ```
-Selecione a pasta desejada
+
+4.Selecione a pasta desejada
 Uma janela será exibida — escolha o diretório que você deseja organizar.
 O script criará subpastas e moverá automaticamente os arquivos de acordo com o tipo.
 
@@ -97,4 +98,5 @@ Sam Douglas
 🌟 Licença
 
 Este projeto está licenciado sob a licença MIT — uso livre para estudo e modificação, desde que mantidos os devidos créditos ao autor.
+
 
