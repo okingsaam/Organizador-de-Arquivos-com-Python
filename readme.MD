@@ -32,14 +32,14 @@ O foco principal é:
 ## 🗂️ Estrutura do Projeto
 
 Organizador-de-Arquivos/
-│
-├── main.py # Código principal da aplicação
+
+├── main.py # Código
+
+ principal da aplicação
+
 ├── README.md # Documentação do projeto
+
 └── requirements.txt # Dependências do projeto
-
-
----
-
 
 ---
 
@@ -48,20 +48,20 @@ Organizador-de-Arquivos/
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/seuusuario/Organizador-de-Arquivos.git
-```
-2.Acesse o diretório
+2. Acesse o diretório
 ```
 cd Organizador-de-Arquivos
+
 ```
-3.Execute o programa
+3. Execute o programa
 ```
 python main.py
 ```
-
-4.Selecione a pasta desejada
+4. Selecione a pasta desejada
 Uma janela será exibida — escolha o diretório que você deseja organizar.
 O script criará subpastas e moverá automaticamente os arquivos de acordo com o tipo.
-
+---
+```
 📦 Tipos de Arquivos Suportados
 Categoria	Extensões
 🖼️ Imagens	.png, .jpg, .jpeg
@@ -72,6 +72,7 @@ Categoria	Extensões
 ⚙️ Executáveis	.exe, .msi, .jar
 🎬 Vídeos	.mp4, .mov
 🧰 Tecnologias utilizadas
+```
 
 Python 3.10+
 
@@ -87,16 +88,14 @@ Tudo roda com o Python puro.
 Este projeto foi desenvolvido exclusivamente para fins de estudo e prática pessoal.
 Serve como exercício de automação, boas práticas e organização de código.
 Não possui fins comerciais.
-
+```
 🧑‍💻 Autor
 
 Sam Douglas
 💼 Desenvolvedor Full Stack
 🐍 Focado em Python, automação e boas práticas de código
 📘 Projeto criado para aprendizado e demonstração de habilidades técnicas
-
+```
 🌟 Licença
 
 Este projeto está licenciado sob a licença MIT — uso livre para estudo e modificação, desde que mantidos os devidos créditos ao autor.
-
-
